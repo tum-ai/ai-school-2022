@@ -1,11 +1,13 @@
 ![logo](./images/tum-ai-logo.png)
 
-# ai-school-2022
+# AI School 2022
 
-Collection of Jupyter Notebooks:
+This repository contains a collection of notebooks supporting the lectures of the AI School 2022. Here is a list of the notebooks contained in this repository:
 
+<br />
+<br />
 
-### NLP Questions Answering [Link to Notebook](./notebooks/nlp.jpnb)
+### NLP Questions Answering [Link to Notebook](./notebooks/nlp.ipynb)
 
 Answering questions about a given input text
 ![nlp](./images/nlp-question-answering-model-in-and-output.png)
