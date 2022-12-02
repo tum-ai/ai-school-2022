@@ -1,6 +1,26 @@
 ![logo](./png/tum-ai-logo.png)
 
-# AI School 2022
+# AI Collection
 
-This repository contains a collection of notebooks supporting the lectures of the AI School 2022. Here is a list of the notebooks contained in this repository:
+---
+
+This repository contains a collection of notebooks and links to other repos from past TUMai events. 
+
+---
+
+## Getting Started
+
+The repo is organized by semesters. In each semester different events took place.
+
+---
+
+## Table of Contents 
+
+- WS2223
+  - ai-academy
+    - Object Detection - Driveblocks
+    - MLOps - ZenML
+    - Reinforcement Learning - AppliedAI
+  - bootcamp
+    - pneumonia-classification.ipynb 
 
